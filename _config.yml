@@ -12,7 +12,7 @@ subtitle: by Javier G. Salcedo
 email: popopojgs@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under
   the Creative Commons.
-baseurl: "https://github.com/popopojgs/blog-jekyll"
+baseurl: https://github.com/popopojgs/blog-jekyll
 url: 
 author: Javier G. Salcedo
 street_address: 
